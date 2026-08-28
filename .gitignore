@@ -1,1 +1,9 @@
 .DS_Store
+debug.log
+node_modules/
+
+# Private working files — not for publishing
+2_Portfolio_Website_Improvements.md
+Utsavkumar_Vaghani_Resume.pdf
+design_handoff_portfolio_refactor/
+*.zip
